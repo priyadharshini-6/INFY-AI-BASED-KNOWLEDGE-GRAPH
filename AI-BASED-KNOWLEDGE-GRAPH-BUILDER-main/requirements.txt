@@ -1,0 +1,15 @@
+chainlit
+python-dotenv
+pandas
+numpy
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+sentence-transformers
+spacy
+neo4j
+faiss-cpu
+pypdf
+protobuf
